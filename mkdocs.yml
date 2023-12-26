@@ -2,10 +2,10 @@ site_name: Commentaires
 site_url: https://example.com/
 nav:
   - Home: 'index.md'
-  - Comments reception: 'reception.md'
-  - Comments chemistry: 'chemistry.md'
-  - Comments microbiology: 'micro.md'
-  - Comments to certificates: 'comments.md'
+  - Commentaires recéption: 'reception.md'
+  - Commentaires chemimie: 'chemistry.md'
+  - Commentaires microbiologie: 'micro.md'
+  - Commentaires générals: 'comments.md'
 theme: 
   name: material
   features:

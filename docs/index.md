@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Ce site à été créé avec Materials for MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+MkDocs: For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
