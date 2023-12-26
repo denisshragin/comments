@@ -1,0 +1,15 @@
+site_name: Commentaires
+site_url: https://example.com/
+nav:
+  - Home: 'index.md'
+  - Comments reception: 'reception.md'
+  - Comments chemistry: 'chemistry.md'
+  - Comments microbiology: 'micro.md'
+  - Comments to certificates: 'comments.md'
+theme: 
+  name: material
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - content.code.copy
+
