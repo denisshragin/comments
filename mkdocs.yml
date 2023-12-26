@@ -1,9 +1,9 @@
 site_name: Commentaires
-site_url: https://example.com/
+site_url: https://denisshragin.github.io/comments/
 nav:
   - Home: 'index.md'
   - Commentaires recéption: 'reception.md'
-  - Commentaires chemimie: 'chemistry.md'
+  - Commentaires chimie: 'chemistry.md'
   - Commentaires microbiologie: 'micro.md'
   - Commentaires générals: 'comments.md'
 theme: 
