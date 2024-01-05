@@ -3,7 +3,7 @@
 
 ## Filtration
 ```
-Commentaire 1
+L'échantillon a été filtré pour l'analyse de l'Azote ammoniacal.
 ```
 
 ```
@@ -17,7 +17,7 @@ Commentaire 3
 ## Température
 
 ```
-Commentaire 1
+L'échantillon a été congelé par le client.
 ```
 
 ```
@@ -69,11 +69,15 @@ Commentaire 4
 ```
 
 ## Métaux
+Métaux dissous - filtration labo:
 ```
-Commentaire 1
+L'échantillon pour l'analyse des Métaux dissous à été filtré au laboratoire
+ en délai conforme.
 ```
+Métaux extractibles, MR non-conforme:
 ```
-Commentaire 2
+Métaux extractibles: Le matériel de référence est non-conforme pour Argent,
+ mais aucun impact sur le résultat de l'échantillon.
 ```
 ```
 Commentaire 3
