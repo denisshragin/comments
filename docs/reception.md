@@ -1,4 +1,4 @@
-# Recéption
+# Réception
 
 
 ## Set 1
@@ -10,7 +10,7 @@ L'échantillon a été congelé par le client.
 ```
 L'échantillon a été congelé à la réception au laboratoire afin de respecter le délai de conservation.
 ```
-Délai de conservation dépassé:
+Délai de conservation dépassé (**non-conforme**):
 ```
 L'analyse de XXX a été effectuée dans un délai dépassé.
 ```

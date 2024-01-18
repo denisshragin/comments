@@ -2,18 +2,22 @@
 
 
 ## Filtration
+Filtration Azote ammoniacal:
 ```
 L'échantillon a été filtré pour l'analyse de l'Azote ammoniacal.
 ```
-
+Métaux dissous filtration sur le terrain:
 ```
-Commentaire 2
+L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé sur le terrain.
 ```
-
+Métaux dissous - filtration labo:
 ```
-Commentaire 3
+L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé au laboratoire dans un délai conforme.
 ```
-
+Métaux dissous - filtration en délai dépassé (**non-conforme**):
+```
+L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé au laboratoire dans un délai dépassé.
+```
 ## Température
 
 Échantillon -- congelation-client:
@@ -65,12 +69,17 @@ DBO congelation-laboratoire:
 ```
 L'échantillon pour l'analyse de la Demande biochimique en oxygène à été congelé à la réception au laboratoire. 
 ```
-
+DCO et DBO les bouteilles sont différentes:
 ```
-Commentaire 3
+Les résultats de la Demande chimique en oxygène et de la Demande biochimique en oxygène ne respectent pas les critères de comparaison inter-paramètres. L'apparence de la matrice des deux bouteilles est différente.
 ```
+DCO avec couche de gras:
 ```
-Commentaire 4
+DCO: L'échantillon a été chauffé avant l'analyse pour faire fondre la couche de gras. 
+```
+## C10-C50 et HAP
+```
+Hydrocarbures pètroliers (C10-C50): À cause d'une erreur de manipulation la meilleure limite ne peut pas être fournie.
 ```
 
 ## Métaux
@@ -78,20 +87,23 @@ Métaux dissous filtration sur le terrain:
 ```
 L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé sur le terrain.
 ```
-Métaux dissous - filtration labo:
+Métaux dissous - filtration labo (conforme):
 ```
 L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé au laboratoire dans un délai conforme.
+```
+Métaux dissous - filtration labo (**non-conforme**):
+```
+L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé au laboratoire dans un délai dépassé.
 ```
 Métaux extractibles, MR non-conforme:
 ```
 Métaux extractibles: Le matériel de référence est non-conforme pour Argent, mais aucun impact sur le résultat de l'échantillon.
 ```
+Métaux solubles à l'acide, MR non-conforme:
 ```
-Commentaire 3
+Métaux solubles à l'acide: Le matériel de référence est non conforme pour Baryum, mais aucun impact sur les résultats de l’échantillon. 
 ```
 ```
 Commentaire 4
 ```
-```
-Commentaire 5
-```
+

@@ -2,7 +2,7 @@ site_name: Commentaires
 site_url: https://denisshragin.github.io/comments/
 nav:
   - Home: 'index.md'
-  - Commentaires recéption: 'reception.md'
+  - Commentaires réception: 'reception.md'
   - Commentaires chimie: 'chemistry.md'
   - Commentaires microbiologie: 'micro.md'
   - Commentaires générals: 'comments.md'
@@ -13,4 +13,7 @@ theme:
   - navigation.tabs.sticky
   - content.code.copy
 copyright: Copyright &copy; 2024  Denis Shragin
+#plugins:
+#  - offline:
+#      enabled: !ENV [OFFLINE, false]
 
