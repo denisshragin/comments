@@ -8,15 +8,15 @@ L'échantillon a été filtré pour l'analyse de l'Azote ammoniacal.
 ```
 Métaux dissous filtration sur le terrain:
 ```
-L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé sur le terrain.
+L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé sur le terrain.
 ```
 Métaux dissous - filtration labo:
 ```
-L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé au laboratoire dans un délai conforme.
+L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé au laboratoire dans un délai conforme.
 ```
 Métaux dissous - filtration en délai dépassé (**non-conforme**):
 ```
-L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé au laboratoire dans un délai dépassé.
+L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé au laboratoire dans un délai dépassé.
 ```
 ## Température
 
@@ -63,11 +63,11 @@ Commentaire 6
 ## DCO / DBO
 DBO congelation-client:
 ```
-L'échantillon pour l'analyse de la Demande biochimique en oxygène à été congelé par le client. 
+L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé par le client. 
 ```
 DBO congelation-laboratoire:
 ```
-L'échantillon pour l'analyse de la Demande biochimique en oxygène à été congelé à la réception au laboratoire. 
+L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé à la réception au laboratoire. 
 ```
 DCO et DBO les bouteilles sont différentes:
 ```
@@ -85,15 +85,15 @@ Hydrocarbures pètroliers (C10-C50): À cause d'une erreur de manipulation la me
 ## Métaux
 Métaux dissous filtration sur le terrain:
 ```
-L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé sur le terrain.
+L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé sur le terrain.
 ```
 Métaux dissous - filtration labo (conforme):
 ```
-L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé au laboratoire dans un délai conforme.
+L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé au laboratoire dans un délai conforme.
 ```
 Métaux dissous - filtration labo (**non-conforme**):
 ```
-L'échantillon pour l'analyse des Métaux dissous à été filtré et préservé au laboratoire dans un délai dépassé.
+L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé au laboratoire dans un délai dépassé.
 ```
 Métaux extractibles, MR non-conforme:
 ```
