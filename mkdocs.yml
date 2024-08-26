@@ -4,7 +4,7 @@ nav:
   - Home: 'index.md'
   - Commentaires réception: 'reception.md'
   - Commentaires chimie: 'chemistry.md'
-  - Commentaires microbiologie: 'micro.md'
+  - Commentaires inter-paramètres: 'inter-param.md'
   - Commentaires générals: 'comments.md'
 theme: 
   name: material
