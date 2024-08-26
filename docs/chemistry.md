@@ -53,8 +53,22 @@ DBO analyse en reprise sur un échantillon congelé:
 ```
 L'analyse de la Demande biochimique en oxygène a été effectuée en reprise sur un échantillon congelé.
 ```
+Filtration après congélation:
+```
+L'échantillon a été filtré après congélation pour l'analyse de la Demande biochimique en oxygène dissous.
+```
+## Limite rapportée augmentée
+Général:
+```
+XXX: La limite rapportée a été augmentée due à une interférence de la matrice.
+```
+
+Phosphores totaux:
+```
+Phosphores totaux: La limite rapportée a été augmentée due à une interférence de la matrice.
+```
 ## COV
-Surrogates NC (trop forts)
+Surrogates non-conformes (trop forts)
 ```
 COV : Les étalons de recouvrement sont non conformes, trop élevés, les résultats peuvent être surévalués.
 ```
@@ -80,6 +94,12 @@ Hydrocarbures pètroliers (C10-C50): À cause d'une erreur de manipulation la me
 LR augmentée
 ```
 Hydrocarbures aromatiques polycycliques, Dibenzo[a,i]pyrène : Dû à une interférence de la matrice la limite rapportée a été augmentée.
+```
+```
+Hydrocarbures aromatiques polycycliques: Les limites rapportées ont été augmentées due à une dilution de l'échantillon en raison de la matrice.
+```
+```
+Hydrocarbures aromatiques polycycliques, Hydrocarbures pétroliers (C10-C50): L’échantillon est constitué à plus de 80% de gravier de plus de 5mm. L’analyse à été effectué selon la dérogation gravier.
 ```
 
 ## Métaux

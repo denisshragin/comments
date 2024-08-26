@@ -1,6 +1,6 @@
 # Commentaires de Hors-normes
 
-## Section 1
+## **Section 1**
 Si tout est correct
 ```
 Votre eau est conforme aux normes pour les paramètres physico-chimiques analysés.
@@ -18,6 +18,7 @@ Nous vous recommandons d’éviter l’utilisation de l’eau pour la consommati
 breuvages, la préparation de nourriture, ainsi que pour la cuisson des aliments dans l’eau.
 ```
 Si seulement turbidité et/ou pH et/ou alcalinité et/ou fluorures:
+
 Turbidité:
 ```
 Appréciation physico-chimique: L'eau est non conforme pour le paramètre de la turbidité.
@@ -34,7 +35,12 @@ Couleur:
 ```
 Appréciation physico-chimique: L'eau est non conforme pour le paramètre de la Couleur.
 ```
+Fluorures:
+```
+Appréciation physico-chimique: L'eau est non conforme pour le paramètre des fluorures.
+```
 Indice de langelier (Température et résultat est à changer à chaque commentaire, selon les résultats).
+
 **Si un résultat négatif**:
 ```
 L'indice de Langelier a été calculé pour une température de 10°C. Le résultat obtenu est de -3.1 ce qui
@@ -55,7 +61,7 @@ indice de ± 0.5 est considéré comme étant balancée chimiquement et ne requi
 ```
 
 
-## Section 2
+## **Section 2**
 Chlorure et sodium:
 ```
 Les résultats d’analyse de votre eau indiquent des concentrations en chlorure et sodium supérieures aux
