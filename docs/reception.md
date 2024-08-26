@@ -17,7 +17,7 @@ L'analyse des Matières en suspension a été effectuée dans un délai dépass�
 ```
 Délai de conservation dépassé DBO (**non-conforme**):
 ```
-L'analyse des Matières en suspension a été effectuée dans un délai dépassé.
+L'analyse de la Demande biochimique en oxygène a été effectuée dans un délai dépassé.
 ```
 Analyse en reprise dans un délai de conservation dépassé: (**non-conforme**):
 ```
@@ -54,5 +54,3 @@ DBO congelation-client et congelation laboratoire:
 L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé par le client.
 L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé à la réception au laboratoire. 
 ```
-
-
