@@ -4,8 +4,9 @@ nav:
   - Home: 'index.md'
   - Commentaires réception: 'reception.md'
   - Commentaires chimie: 'chemistry.md'
-  - Commentaires inter-paramètres: 'inter-param.md'
+  - Commentaires inter-paramètres: 'inter_param.md'
   - Commentaires générals: 'comments.md'
+  - Commentaires Hors-normes: 'hors_normes.md'
 theme: 
   name: material
   features:
