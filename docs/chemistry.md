@@ -32,9 +32,13 @@ L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé 
 ```
 L'échantillon a été congelé par le client.
 ```
-Échantillon -- congelation-laboratoire:
+Échantillon -- congelation à la réception:
 ```
 L'échantillon a été congelé à la réception au laboratoire afin de respecter le délai de conservation.
+```
+Échantillon -- congelation au laboratoire:
+```
+L'échantillon a été congelé au laboratoire afin de respecter le délai de conservation.
 ```
 DBO congelation-client:
 ```
@@ -77,6 +81,7 @@ Dilution excéssive
 COV : Les récupérations des étalons de recouvrement ne sont pas disponibles à cause d’une dilution excessive de l’échantillon.
 ```
 
+
 ## DCO / DBO
 
 DCO et DBO les bouteilles sont différentes:
@@ -103,6 +108,7 @@ Hydrocarbures aromatiques polycycliques, Hydrocarbures pétroliers (C10-C50): L�
 ```
 
 ## Métaux
+### MR non-conforme
 Métaux extractibles, MR non-conforme:
 ```
 Métaux extractibles: Le matériel de référence est non-conforme pour Argent, mais aucun impact sur le résultat de l'échantillon.
@@ -115,13 +121,22 @@ Métaux dissous, MR non-conforme:
 ```
 Métaux dissous: Le matériel de référence est non conforme pour Baryum, mais aucun impact sur les résultats de l’échantillon. 
 ```
-Blanc positif soustriat
+### Blanc positif
+Métaux extractibles: Blanc positif soustrait
 ```
 Blanc positif soustrait du résultat pour l’analyse du Cuivre extractible.
 ```
-Blanc positif non soustriat
+Métaux extractibles: Blanc positif non soustrait
 ```
 Métaux extractibles: Blanc est positif en Cuivre, mais aucun impact sur les résultats de l’échantillon.
+```
+Métaux solubles à l'acide: Blanc positif soustrait
+```
+Blanc positif soustrait du résultat pour l’analyse du Sélénium soluble à l'acide.
+```
+Métaux solubles à l'acide: Blanc positif non soustrait
+```
+Métaux solubles à l'acide: Blanc est positif en Sélénium, mais aucun impact sur les résultats de l’échantillon.
 ```
 
 ## English

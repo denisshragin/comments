@@ -37,9 +37,13 @@ L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé 
 ``` 
 L'échantillon a été congelé par le client.
 ```
-Échantillon -- congelation-laboratoire:
+Échantillon -- congelation à la réception:
 ```
 L'échantillon a été congelé à la réception au laboratoire afin de respecter le délai de conservation.
+```
+Échantillon -- congelation au laboratoire:
+```
+L'échantillon a été congelé au laboratoire afin de respecter le délai de conservation.
 ```
 DBO congelation-client:
 ```
