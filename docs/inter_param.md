@@ -34,7 +34,7 @@ Manganèse soluble à l'acide et Manganèse dissous
 ```
 Les résultats du Manganèse soluble à l'acide et du Manganèse dissous ne respectent pas les critères de comparaison inter-paramètres. Cependant, la différence entre les deux valeurs respecte l’écart d’imprécision des méthodes analytiques.
 ```
-Sodium extractible et Manganèse dissous
+Sodium extractible et Sodium dissous
 ```
 Les résultats du Sodium extractible et du Sodium dissous ne respectent pas les critères de comparaison inter-paramètres. Cependant, la différence entre les deux valeurs respecte l’écart d’imprécision des méthodes analytiques.
 ```
