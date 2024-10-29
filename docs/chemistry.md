@@ -29,7 +29,7 @@ L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé 
 ## Température
 Azote ammoniacal à 25 C:
 ```
-Le résultat de l'Azote ammoniacal non ionisé a été calculé en utilisant le pH à 22°C.
+Le résultat de l'Azote ammoniacal non ionisé a été calculé en utilisant le pH à 25°C.
 ```
 Azote ammoniacal calculé avec pH du client:
 ```
@@ -75,6 +75,10 @@ pH boue liquide:
 ```
 pH:  L'échantillon de boue est suffisamment liquide, il a été analysé directement sans extraction.
 ```
+pH ajousté au laboratoire
+```
+XXX : Agent de conservation insuffisant, pH ajusté au laboratoire.
+```
 ## Limite rapportée augmentée
 Général:
 ```
@@ -98,6 +102,10 @@ Nitrites: La limite rapportée a été augmentée due à une interférence de la
 % d'humidité élevé:
 ```
 En raison d'un pourcentage d'humidité élevé, les limites de détection ont été augmentées.
+```
+DBO LR augmentée: 
+```
+Demande biochimique en oxygène carbonée: La limite rapportée a été augmentée due à une interférence de la matrice.
 ```
 ## COV
 Surrogates non-conformes (trop forts)
@@ -140,7 +148,7 @@ DCO: L'échantillon a été chauffé avant l'analyse pour faire fondre la couche
 ```
 ## C10-C50 et HAP
 ```
-Hydrocarbures pètroliers (C10-C50): À cause d'une erreur de manipulation la meilleure limite de détection ne peut pas être fournie.
+Hydrocarbures Pétroliers (C10-C50): À cause d'une erreur de manipulation la meilleure limite de détection ne peut pas être fournie.
 ```
 LR augmentée
 ```
@@ -150,7 +158,7 @@ Hydrocarbures aromatiques polycycliques, Dibenzo[a,i]pyrène : Dû à une interf
 Hydrocarbures aromatiques polycycliques: Les limites rapportées ont été augmentées due à une dilution de l'échantillon en raison de la matrice.
 ```
 ```
-Hydrocarbures aromatiques polycycliques, Hydrocarbures pétroliers (C10-C50): L’échantillon est constitué à plus de 80% de gravier de plus de 5mm. L’analyse à été effectué selon la dérogation gravier.
+Hydrocarbures aromatiques polycycliques, Hydrocarbures Pétroliers (C10-C50): L’échantillon est constitué à plus de 80% de gravier de plus de 5mm. L’analyse à été effectué selon la dérogation gravier.
 ```
 Blanc positif
 ```
@@ -177,6 +185,10 @@ Hydrocarbures aromatiques polycycliques: Certains composés sont en dehors de no
 ```
 ```
 Hydrocarbures aromatiques polycycliques: Le Phénanthrène est en dehors de notre domaine de linéarité, cependant, une reprise est impossible car il ne restait pas assez d’échantillon. Les résultats peuvent être sous-évalués.
+```
+Surrogates oiubliés:
+```
+Hydrocarbures aromatiques polycycliques : À cause d'une erreur de manipulation les récupérations des étalons de recouvrement ne sont pas disponibles, mais aucun impact sur le résultat de l'échantillon.
 ```
 
 ## Métaux
@@ -245,4 +257,12 @@ The sample the Biochemical Oxygen Demand analysis was frozen by the client.
 DBO congelé par le laboratoire
 ```
 The sample for Biochemical Oxygen Demand analysis was frozen upon receipt at the laboratory.
+```
+Azote ammoniacal à 25°C:
+```
+The result of un-ionized ammonia nitrogen was calculated at 25°C.
+```
+Azote ammoniacal à 25°C:
+```
+The result of non-ionized ammonia nitrogen was calculated at 25°C.
 ```
