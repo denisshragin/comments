@@ -126,7 +126,7 @@ COV: En raison d'un poids d'extraction insuffisant, les limites de détection on
 ```
 COV pot non-conforme:
 ```
-Analyse non conforme car effectuée sur un échantillon prélevé dans un pot de verre avec espace d'air,
+Analyse non conforme car effectuée sur un échantillon prélevé dans un pot de verre avec espace d'air.
 ```
 COV pot déjà manipulé:
 ```
