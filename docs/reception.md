@@ -11,14 +11,34 @@ Délai de conservation dépassé pH (**non-conforme**):
 ```
 L'analyse du pH a été effectuée dans un délai dépassé.
 ```
+Délai de conservation dépassé pH-15C (**non-conforme**):
+```
+L'analyse du pH-15°C a été effectuée dans un délai dépassé.
+```
 Délai de conservation dépassé MES (**non-conforme**):
 ```
 L'analyse des Matières en suspension a été effectuée dans un délai dépassé.
 ```
+## DBO
+
 Délai de conservation dépassé DBO (**non-conforme**):
 ```
 L'analyse de la Demande biochimique en oxygène a été effectuée dans un délai dépassé.
 ```
+Délai de conservation dépassé DBO totale(**non-conforme**):
+```
+L'analyse de la Demande biochimique en oxygène totale a été effectuée dans un délai dépassé.
+```
+Délai de conservation dépassé DBO carbonée (**non-conforme**):
+```
+L'analyse de la Demande biochimique en oxygène carbonée a été effectuée dans un délai dépassé.
+```
+Délai de conservation dépassé DBO dissous (**non-conforme**):
+```
+L'analyse de la Demande biochimique en oxygène dissous a été effectuée dans un délai dépassé.
+```
+## Autres
+
 Analyse en reprise dans un délai de conservation dépassé: (**non-conforme**):
 ```
 L'analyse de XXX a été effectuée en reprise dans un délai dépassé.

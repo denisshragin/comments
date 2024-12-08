@@ -13,7 +13,7 @@ DCO et DBO carbonée
 ```
 Les résultats de la Demande chimique en oxygène et de la Demande biochimique en oxygène carbonée ne respectent pas les critères de comparaison inter-paramètres. Cependant, la différence entre les deux valeurs respecte l’écart d’imprécision des méthodes analytiques.
 ```
-DBO totale et DBO dissous
+DBO totale et DBO carbonée
 ```
 Les résultats de la Demande biochimique en oxygène totale et de la Demande biochimique en oxygène carbonée ne respectent pas les critères de comparaison inter-paramètres. Cependant, la différence entre les deux valeurs respecte l’écart d’imprécision des méthodes analytiques.
 ```
@@ -41,7 +41,7 @@ Sodium extractible et Sodium dissous
 ```
 Les résultats du Sodium extractible et du Sodium dissous ne respectent pas les critères de comparaison inter-paramètres. Cependant, la différence entre les deux valeurs respecte l’écart d’imprécision des méthodes analytiques.
 ```
-Commentaire général
+Commentaire général - résultats confirmés en reprise
 ```
 Les résultats de XXX et de XXX ne respectent pas les critères de comparaison inter-paramètres. Les résultats des 2 analyses ont été confirmés en reprise.
 ```

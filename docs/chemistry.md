@@ -27,7 +27,7 @@ Métaux dissous - filtration au labo dans un délai dépassé (**non-conforme**)
 L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé au laboratoire dans un délai dépassé.
 ```
 ## Température
-Azote ammoniacal à 25 C:
+Azote ammoniacal à 25°C:
 ```
 Le résultat de l'Azote ammoniacal non ionisé a été calculé en utilisant le pH à 25°C.
 ```
@@ -81,11 +81,17 @@ XXX : Agent de conservation insuffisant, pH ajusté au laboratoire.
 ```
 ## Limite rapportée augmentée
 Général:
+Interférénce da la matrice
 ```
 XXX: La limite rapportée a été augmentée due à une interférence de la matrice.
 ```
+Dilution en raison de la matrice
 ```
-XXX: La limite rapportée a été  augmentée dû à une dilution de l’échantillon en raison d'une matrice trop chargée.
+XXX: La limite rapportée a été augmentée dû à une dilution de l’échantillon en raison de la matrice.
+```
+Dilution en raison de la matrice trop chargée
+```
+XXX: La limite rapportée a été augmentée dû à une dilution de l’échantillon en raison d'une matrice trop chargée.
 ```
 Phosphores totaux:
 ```
