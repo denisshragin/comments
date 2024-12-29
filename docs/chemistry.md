@@ -81,7 +81,7 @@ XXX : Agent de conservation insuffisant, pH ajusté au laboratoire.
 ```
 ## Limite rapportée augmentée
 Général:
-Interférénce da la matrice
+Interférence da la matrice
 ```
 XXX: La limite rapportée a été augmentée due à une interférence de la matrice.
 ```
@@ -109,9 +109,19 @@ Nitrites: La limite rapportée a été augmentée due à une interférence de la
 ```
 En raison d'un pourcentage d'humidité élevé, les limites de détection ont été augmentées.
 ```
+COV LR augmentées:
+```
+COV: Les limites rapportées ont été augmentées due à une dilution de l'échantillon en raison de la matrice.
+```
 DBO LR augmentée: 
 ```
 Demande biochimique en oxygène carbonée: La limite rapportée a été augmentée due à une interférence de la matrice.
+```
+```
+Présence d'interférence pour les analyses de la Demande biochimique en oxygène carbonée et de la Demande biochimique en oxygène totale. Les résultats sont à interpréter avec diligence et discernement.
+```
+```
+Présence d'interférence pour l’analyse de la Demande biochimique en oxygène carbonée. Le résultat est à interpréter avec diligence et discernement.
 ```
 ## COV
 Surrogates non-conformes (trop forts)
@@ -142,7 +152,14 @@ COV pot conforme:
 ```
 COV: Analyse effectuée sur un échantillon prélevé dans un pot de verre sans espace d’air.
 ```
+COV LRs augmentées
+```
+COV: Les limites rapportées ont été augmentées due à une dilution de l'échantillon en raison de la matrice.
+```
+
 ## DCO / DBO
+
+
 
 DCO et DBO les bouteilles sont différentes:
 ```

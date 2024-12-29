@@ -11,7 +11,7 @@ Délai de conservation dépassé pH (**non-conforme**):
 ```
 L'analyse du pH a été effectuée dans un délai dépassé.
 ```
-Délai de conservation dépassé pH-15C (**non-conforme**):
+Délai de conservation dépassé pH-15°C (**non-conforme**):
 ```
 L'analyse du pH-15°C a été effectuée dans un délai dépassé.
 ```
@@ -19,31 +19,10 @@ Délai de conservation dépassé MES (**non-conforme**):
 ```
 L'analyse des Matières en suspension a été effectuée dans un délai dépassé.
 ```
-## DBO
-
 Délai de conservation dépassé DBO (**non-conforme**):
 ```
 L'analyse de la Demande biochimique en oxygène a été effectuée dans un délai dépassé.
 ```
-Délai de conservation dépassé DBO totale(**non-conforme**):
-```
-L'analyse de la Demande biochimique en oxygène totale a été effectuée dans un délai dépassé.
-```
-Délai de conservation dépassé DBO carbonée (**non-conforme**):
-```
-L'analyse de la Demande biochimique en oxygène carbonée a été effectuée dans un délai dépassé.
-```
-Délai de conservation dépassé DBO dissous (**non-conforme**):
-```
-L'analyse de la Demande biochimique en oxygène dissous a été effectuée dans un délai dépassé.
-```
-## Autres
-
-Analyse en reprise dans un délai de conservation dépassé: (**non-conforme**):
-```
-L'analyse de XXX a été effectuée en reprise dans un délai dépassé.
-```
-
 
 ## Filtration par le client
 
@@ -77,4 +56,13 @@ DBO congelation-client et congelation laboratoire:
 ```
 L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé par le client.
 L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé à la réception au laboratoire. 
+```
+## Anglais
+DBO congelé par le client
+```
+The sample the Biochemical Oxygen Demand analysis was frozen by the client.
+```
+DBO congelé par le laboratoire
+```
+The sample for Biochemical Oxygen Demand analysis was frozen upon receipt at the laboratory.
 ```
