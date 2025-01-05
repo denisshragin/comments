@@ -14,6 +14,11 @@ theme:
   - navigation.tabs.sticky
   - content.code.copy
 copyright: Copyright &copy; 2024  Denis Shragin
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 #plugins:
 #  - offline:
 #      enabled: !ENV [OFFLINE, false]
