@@ -44,25 +44,25 @@ L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé 
     L'échantillon a été congelé au laboratoire afin de respecter le délai de conservation.
     ```
 ## DBO-congélation
-=== "DBO congelation-client"
+=== "DBO congélation-client"
     ```
     L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé par le client. 
     ```
-=== "DBO congelation-labo"
+=== "DBO congélation-labo"
     ```
     L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé à la réception au laboratoire. 
     ```
-=== "DBO congelation-client/labo"
+=== "DBO congélation-client/labo"
     ```
     L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé par le client.
     L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé à la réception au laboratoire. 
     ```
 ## Anglais
-DBO congelé par le client
-```
-The sample the Biochemical Oxygen Demand analysis was frozen by the client.
-```
-DBO congelé par le laboratoire
-```
-The sample for Biochemical Oxygen Demand analysis was frozen upon receipt at the laboratory.
-```
+=== "BOD frozen-client"
+    ```
+    The sample for Biochemical Oxygen Demand analysis was frozen by the client.
+    ```
+=== "BOD frozen-lab"
+    ```
+    The sample for Biochemical Oxygen Demand analysis was frozen upon receipt at the laboratory.
+    ```
