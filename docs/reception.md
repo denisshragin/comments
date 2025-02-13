@@ -22,6 +22,22 @@
     ```
     L'analyse de la Demande biochimique en oxygène a été effectuée dans un délai dépassé.
     ```
+=== "DBOc"
+    ```
+    L'analyse de la Demande biochimique en oxygène carbonée a été effectuée dans un délai dépassé.
+    ```
+=== "DBOt"
+    ```
+    L'analyse de la Demande biochimique en oxygène totale a été effectuée dans un délai dépassé.
+    ```
+=== "DBOc et d"
+    ```
+    L'analyse de la Demande biochimique en oxygène carbonée et dissous a été effectuée dans un délai dépassé.
+    ```
+=== "DBOd"
+    ```
+    L'analyse de la Demande biochimique en oxygène dissous a été effectuée dans un délai dépassé.
+    ```
 
 ## Filtration par le client
 
@@ -66,3 +82,18 @@ L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé 
     ```
     The sample for Biochemical Oxygen Demand analysis was frozen upon receipt at the laboratory.
     ```
+
+## Unités
+
+=== "°C"
+```
+°C
+```
+=== "m3/j"
+```
+m3/j
+```
+=== "mg/L "
+```
+mg/L
+```
