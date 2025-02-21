@@ -2,18 +2,19 @@
 
 
 ## Filtration
-=== Filtration générale:
+=== "Filtration générale"
     ```
     L'échantillon a été filtré pour l'analyse de XXX.
     ```
-=== Filtration Azote ammoniacal:
+=== "Filtration Azote ammoniacal"
     ```
     L'échantillon a été filtré pour l'analyse de l'Azote ammoniacal.
     ```
-=== Filtration Indice phénolique:
+=== "Filtration Indice phénolique"
     ```
     L'échantillon a été filtré pour l'analyse de l'Indice phénolique.
     ```
+
 Métaux dissous filtration sur le terrain:
 ```
 L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé sur le terrain.
@@ -37,15 +38,15 @@ Le résultat de l'Azote ammoniacal non ionisé a été calculé en utilisant le 
 ```
 ## Congelation
 
-=== Échantillon -- congelation-client:
+=== "Échantillon -- congelation-client"
     ```
     L'échantillon a été congelé par le client.
     ```
-=== Échantillon -- congelation à la réception:
+=== "Échantillon -- congelation à la réception"
     ```
     L'échantillon a été congelé à la réception au laboratoire afin de respecter le délai de conservation.
     ```
-=== Échantillon - congelation au laboratoire:
+=== "Échantillon - congelation au laboratoire"
     ```
     L'échantillon a été congelé au laboratoire afin de respecter le délai de conservation.
     ```
@@ -75,15 +76,15 @@ pH boue liquide:
 ```
 pH:  L'échantillon de boue est suffisamment liquide, il a été analysé directement sans extraction.
 ```
-=== pH ajousté au laboratoire
+=== "pH ajousté au laboratoire"
     ```
     XXX : Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
-=== pH ajousté C10-C50
+=== "pH ajousté C10-C50"
     ```
     Hydrocarbures Pétroliers (C10-C50): Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
-=== pH ajousté HAP
+=== "pH ajousté HAP"
     ```
     Hydrocarbures aromatiques polycycliques: Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
