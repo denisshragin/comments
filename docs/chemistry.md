@@ -2,18 +2,18 @@
 
 
 ## Filtration
-Filtration:
-```
-L'échantillon a été filtré pour l'analyse de XXX.
-```
-Filtration Azote ammoniacal:
-```
-L'échantillon a été filtré pour l'analyse de l'Azote ammoniacal.
-```
-Filtration Indice phénolique:
-```
-L'échantillon a été filtré pour l'analyse de l'Indice phénolique.
-```
+=== Filtration générale:
+    ```
+    L'échantillon a été filtré pour l'analyse de XXX.
+    ```
+=== Filtration Azote ammoniacal:
+    ```
+    L'échantillon a été filtré pour l'analyse de l'Azote ammoniacal.
+    ```
+=== Filtration Indice phénolique:
+    ```
+    L'échantillon a été filtré pour l'analyse de l'Indice phénolique.
+    ```
 Métaux dissous filtration sur le terrain:
 ```
 L'échantillon pour l'analyse des Métaux dissous a été filtré et préservé sur le terrain.
@@ -31,24 +31,24 @@ Azote ammoniacal à 25°C:
 ```
 Le résultat de l'Azote ammoniacal non ionisé a été calculé en utilisant le pH à 25°C.
 ```
-Azote ammoniacal calculé avec pH du client:
+Azote ammoniacal calculé avec le pH du client:
 ```
 Le résultat de l'Azote ammoniacal non ionisé a été calculé en utilisant le pH fourni par le client.
 ```
 ## Congelation
 
-Échantillon -- congelation-client:
-```
-L'échantillon a été congelé par le client.
-```
-Échantillon -- congelation à la réception:
-```
-L'échantillon a été congelé à la réception au laboratoire afin de respecter le délai de conservation.
-```
-Échantillon -- congelation au laboratoire:
-```
-L'échantillon a été congelé au laboratoire afin de respecter le délai de conservation.
-```
+=== Échantillon -- congelation-client:
+    ```
+    L'échantillon a été congelé par le client.
+    ```
+=== Échantillon -- congelation à la réception:
+    ```
+    L'échantillon a été congelé à la réception au laboratoire afin de respecter le délai de conservation.
+    ```
+=== Échantillon - congelation au laboratoire:
+    ```
+    L'échantillon a été congelé au laboratoire afin de respecter le délai de conservation.
+    ```
 DBO congelation-client:
 ```
 L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé par le client. 
@@ -75,10 +75,18 @@ pH boue liquide:
 ```
 pH:  L'échantillon de boue est suffisamment liquide, il a été analysé directement sans extraction.
 ```
-pH ajousté au laboratoire
-```
-XXX : Agent de conservation insuffisant, pH ajusté au laboratoire.
-```
+=== pH ajousté au laboratoire
+    ```
+    XXX : Agent de conservation insuffisant, pH ajusté au laboratoire.
+    ```
+=== pH ajousté C10-C50
+    ```
+    Hydrocarbures Pétroliers (C10-C50): Agent de conservation insuffisant, pH ajusté au laboratoire.
+    ```
+=== pH ajousté HAP
+    ```
+    Hydrocarbures aromatiques polycycliques: Agent de conservation insuffisant, pH ajusté au laboratoire.
+    ```
 ## Limite rapportée augmentée
 Général:
 Interférence da la matrice
@@ -114,14 +122,21 @@ COV LR augmentées:
 COV: Les limites rapportées ont été augmentées due à une dilution de l'échantillon en raison de la matrice.
 ```
 DBO LR augmentée: 
+=== "DBOc TARKETT avec LR augmentée"
 ```
-Demande biochimique en oxygène carbonée: La limite rapportée a été augmentée due à une interférence de la matrice.
+Demande biochimique en oxygène carbonée: La limite rapportée a été augmentée due à une interférence de la matrice. Présence d'interférence pour l’analyse de la Demande biochimique en oxygène carbonée. Le résultat est à interpréter avec diligence et discernement.
 ```
+=== "DBOc et DBOt TARKETT avec LR augmentée"
 ```
-Présence d'interférence pour les analyses de la Demande biochimique en oxygène carbonée et de la Demande biochimique en oxygène totale. Les résultats sont à interpréter avec diligence et discernement.
+Demande biochimique en oxygène carbonée, Demande biochimique en oxygène totale: La limite rapportée a été augmentée due à une interférence de la matrice. Présence d'interférence pour les analyses de la Demande biochimique en oxygène carbonée et de la Demande biochimique en oxygène totale. Les résultats sont à interpréter avec diligence et discernement.
 ```
+=== "DBOc TARKETT"
 ```
 Présence d'interférence pour l’analyse de la Demande biochimique en oxygène carbonée. Le résultat est à interpréter avec diligence et discernement.
+```
+=== "DBOc et DBOt TARKETT"
+```
+Présence d'interférence pour les analyses de la Demande biochimique en oxygène carbonée et de la Demande biochimique en oxygène totale. Les résultats sont à interpréter avec diligence et discernement.
 ```
 ## COV
 Surrogates non-conformes (trop forts)
@@ -156,6 +171,10 @@ COV LRs augmentées
 ```
 COV: Les limites rapportées ont été augmentées due à une dilution de l'échantillon en raison de la matrice.
 ```
+Humidité élevé et masse insuffisante
+```
+COV:  En raison d'un pourcentage d'humidité élevé et d'un poids d'extraction insuffisant, les limites de détection ont été augmentées et les résultats peuvent être sous-estimés.
+```
 
 ## DCO / DBO
 
@@ -169,6 +188,15 @@ DCO avec couche de gras:
 ```
 DCO: L'échantillon a été chauffé avant l'analyse pour faire fondre la couche de gras. 
 ```
+DBOt et DBOc TARKETT
+```
+Présence d'interférence pour les analyses de la Demande biochimique en oxygène carbonée et de la Demande biochimique en oxygène totale. Les résultats sont à interpréter avec diligence et discernement.
+```
+DBO TARKETT
+```
+Présence d'interférence pour l’analyse de la demande biochimique en oxygène carbonée. Le résultat est à interpréter avec diligence et discernement.
+```
+
 ## C10-C50 et HAP
 ```
 Hydrocarbures Pétroliers (C10-C50): À cause d'une erreur de manipulation la meilleure limite de détection ne peut pas être fournie.
@@ -212,6 +240,10 @@ Hydrocarbures aromatiques polycycliques: Le Phénanthrène est en dehors de notr
 Surrogates oiubliés:
 ```
 Hydrocarbures aromatiques polycycliques : À cause d'une erreur de manipulation les récupérations des étalons de recouvrement ne sont pas disponibles, mais aucun impact sur le résultat de l'échantillon.
+```
+Traitement à l'acétone
+```
+Hydrocarbures Pétroliers (C10-C50): L'échantillon a subi un traitement à l'acétone après extraction pour casser l'émulsion.
 ```
 
 ## Métaux
