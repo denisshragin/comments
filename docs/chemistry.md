@@ -2,15 +2,15 @@
 
 
 ## Filtration
-=== "Filtration générale"
+=== "Général"
     ```
     L'échantillon a été filtré pour l'analyse de XXX.
     ```
-=== "Filtration Azote ammoniacal"
+=== "Azote ammoniacal"
     ```
     L'échantillon a été filtré pour l'analyse de l'Azote ammoniacal.
     ```
-=== "Filtration Indice phénolique"
+=== "Indice phénolique"
     ```
     L'échantillon a été filtré pour l'analyse de l'Indice phénolique.
     ```
@@ -36,33 +36,35 @@ Azote ammoniacal calculé avec le pH du client:
 ```
 Le résultat de l'Azote ammoniacal non ionisé a été calculé en utilisant le pH fourni par le client.
 ```
-## Congelation
+## Congélation
 
-=== "Échantillon -- congelation-client"
+=== "Congélation-client"
     ```
     L'échantillon a été congelé par le client.
     ```
-=== "Échantillon -- congelation à la réception"
+=== Congélation à la réception"
     ```
     L'échantillon a été congelé à la réception au laboratoire afin de respecter le délai de conservation.
     ```
-=== "Échantillon - congelation au laboratoire"
+=== "Congélation-labo"
     ```
     L'échantillon a été congelé au laboratoire afin de respecter le délai de conservation.
     ```
-DBO congelation-client:
-```
-L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé par le client. 
-```
-DBO congelation-laboratoire:
-```
-L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé à la réception au laboratoire. 
-```
-DBO congelation-client et congelation laboratoire:
-```
-L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé par le client.
-L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé à la réception au laboratoire. 
-```
+
+## Congélation DBO
+=== "DBO congélation-client"
+    ```
+    L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé par le client. 
+    ```
+=== "DBO congélation-labo"
+    ```
+    L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé à la réception au laboratoire. 
+    ```
+=== "DBO congélation-client/labo"
+    ```
+    L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé par le client.
+    L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé à la réception au laboratoire. 
+    ```
 DBO analyse en reprise sur un échantillon congelé:
 ```
 L'analyse de la Demande biochimique en oxygène a été effectuée en reprise sur un échantillon congelé.
@@ -72,10 +74,6 @@ Filtration après congélation:
 L'échantillon a été filtré après congélation pour l'analyse de la Demande biochimique en oxygène dissous.
 ```
 ## pH
-pH boue liquide:
-```
-pH:  L'échantillon de boue est suffisamment liquide, il a été analysé directement sans extraction.
-```
 === "pH ajousté au laboratoire"
     ```
     XXX : Agent de conservation insuffisant, pH ajusté au laboratoire.
@@ -88,6 +86,11 @@ pH:  L'échantillon de boue est suffisamment liquide, il a été analysé direct
     ```
     Hydrocarbures aromatiques polycycliques: Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
+pH boue liquide:
+```
+pH:  L'échantillon de boue est suffisamment liquide, il a été analysé directement sans extraction.
+```
+
 ## Limite rapportée augmentée
 Général:
 Interférence da la matrice
