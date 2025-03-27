@@ -66,9 +66,26 @@ Le résultat de l'Azote ammoniacal non ionisé a été calculé en utilisant le 
     L'échantillon pour l'analyse de la Demande biochimique en oxygène a été congelé à la réception au laboratoire. 
     ```
 DBO analyse en reprise sur un échantillon congelé:
-```
-L'analyse de la Demande biochimique en oxygène a été effectuée en reprise sur un échantillon congelé.
-```
+
+=== "DBO reprise"
+    ```
+    L'analyse de la Demande biochimique en oxygène a été effectuée en reprise sur un échantillon congelé.
+    ```
+=== "DBOt congelé labo+reprise"
+    ```
+    L'échantillon pour l'analyse de la Demande biochimique en oxygène totale a été congelé à la réception au laboratoire. 
+    L'analyse de la Demande biochimique en oxygène totale a été effectuée en reprise sur un échantillon congelé.
+    ```
+=== "DBOc congelé labo+reprise"
+    ```
+    L'échantillon pour l'analyse de la Demande biochimique en oxygène carbonée a été congelé à la réception au laboratoire. 
+    L'analyse de la Demande biochimique en oxygène carbonée a été effectuée en reprise sur un échantillon congelé.
+    ```
+=== "DBOc et d congelé labo+reprise"
+    ```
+    L'échantillon pour l'analyse de la Demande biochimique en oxygène carbonée et dissous a été congelé à la réception au laboratoire. 
+    L'analyse de la Demande biochimique en oxygène carbonée et dissous a été effectuée en reprise sur un échantillon congelé.
+    ```
 Filtration après congélation:
 ```
 L'échantillon a été filtré après congélation pour l'analyse de la Demande biochimique en oxygène dissous.
@@ -86,6 +103,10 @@ L'échantillon a été filtré après congélation pour l'analyse de la Demande 
     ```
     Hydrocarbures aromatiques polycycliques: Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
+=== "HGT pH ajousté"
+    ```
+    Huiles et graisses totales: Agent de conservation insuffisant, pH ajusté au laboratoire.
+    ```
 pH boue liquide:
 ```
 pH:  L'échantillon de boue est suffisamment liquide, il a été analysé directement sans extraction.
@@ -94,8 +115,13 @@ pH:  L'échantillon de boue est suffisamment liquide, il a été analysé direct
 ## Limite rapportée augmentée
 Général:
 Interférence da la matrice
+Mono-paramètre
 ```
 XXX: La limite rapportée a été augmentée due à une interférence de la matrice.
+```
+Multi-paramètres
+```
+XXX: Les limites rapportées ont été augmentées due à une interférence de la matrice.
 ```
 Dilution en raison de la matrice
 ```
@@ -181,8 +207,6 @@ COV:  En raison d'un pourcentage d'humidité élevé et d'un poids d'extraction 
 ```
 
 ## DCO / DBO
-
-
 
 DCO et DBO les bouteilles sont différentes:
 ```
