@@ -168,6 +168,16 @@ Présence d'interférence pour l’analyse de la Demande biochimique en oxygène
 ```
 Présence d'interférence pour les analyses de la Demande biochimique en oxygène carbonée et de la Demande biochimique en oxygène totale. Les résultats sont à interpréter avec diligence et discernement.
 ```
+
+## B(a)P Higyène
+LR augmentée (pour le support)
+```
+Benzo(a)pyrène-Hygiène: La limite rapportée a été augmentée due à une plus grande utilisation de solvant en raison de la matrice de l'échantillon.
+```
+```
+Benzo(a)pyrène-Hygiène: La limite rapportée a été augmentée due à une dilution de l'échantillon en raison de la matrice.
+```
+
 ## COV
 Surrogates non-conformes (trop forts)
 ```
