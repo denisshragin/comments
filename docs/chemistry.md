@@ -103,9 +103,13 @@ L'échantillon a été filtré après congélation pour l'analyse de la Demande 
     ```
     Hydrocarbures aromatiques polycycliques: Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
+=== "pH ajousté C10-C50 et HAP"
+    ```
+    Hydrocarbures Pétroliers (C10-C50), Hydrocarbures aromatiques polycycliques: Agent de conservation insuffisant, pH ajusté au laboratoire.
+    ```
 === "HGT pH ajousté"
     ```
-    Huiles et graisses totales: Agent de conservation insuffisant, pH ajusté au laboratoire.
+    Huiles et graisses totales - Gravimétrie: Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
 pH boue liquide:
 ```
@@ -169,7 +173,7 @@ Présence d'interférence pour l’analyse de la Demande biochimique en oxygène
 Présence d'interférence pour les analyses de la Demande biochimique en oxygène carbonée et de la Demande biochimique en oxygène totale. Les résultats sont à interpréter avec diligence et discernement.
 ```
 
-## B(a)P Higyène
+## B(a)P Hygiène
 LR augmentée (pour le support)
 ```
 Benzo(a)pyrène-Hygiène: La limite rapportée a été augmentée due à une plus grande utilisation de solvant en raison de la matrice de l'échantillon.
@@ -358,4 +362,8 @@ The result of un-ionized ammonia nitrogen was calculated at 25°C.
 Azote ammoniacal à 25°C:
 ```
 The result of non-ionized ammonia nitrogen was calculated at 25°C.
+```
+Votre eau est conforme aux normes pour les paramètres physico-chimiques analysés.
+```
+Your water complies with the standards for the physicochemical parameters analyzed.
 ```

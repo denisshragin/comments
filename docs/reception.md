@@ -38,6 +38,10 @@
     ```
     L'analyse de la Demande biochimique en oxygène dissous a été effectuée dans un délai dépassé.
     ```
+=== "C10C50 et HAP"
+    ```
+    Les analyses des Hydrocarbures aromatiques polycycliques et des Hydrocarbures Pétroliers (C10-C50) ont été effectuées dans un délai dépassé.
+    ```
 
 ## Filtration par le client
 
