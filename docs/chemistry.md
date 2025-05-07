@@ -86,28 +86,28 @@ DBO analyse en reprise sur un échantillon congelé:
     L'échantillon pour l'analyse de la Demande biochimique en oxygène carbonée et dissous a été congelé à la réception au laboratoire. 
     L'analyse de la Demande biochimique en oxygène carbonée et dissous a été effectuée en reprise sur un échantillon congelé.
     ```
-Filtration après congélation:
+DBO - filtration après congélation:
 ```
 L'échantillon a été filtré après congélation pour l'analyse de la Demande biochimique en oxygène dissous.
 ```
 ## pH
-=== "pH ajousté au laboratoire"
+=== "pH ajusté"
     ```
     XXX : Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
-=== "pH ajousté C10-C50"
+=== "pH ajusté C10-C50"
     ```
     Hydrocarbures Pétroliers (C10-C50): Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
-=== "pH ajousté HAP"
+=== "pH ajusté HAP"
     ```
     Hydrocarbures aromatiques polycycliques: Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
-=== "pH ajousté C10-C50 et HAP"
+=== "pH ajusté C10-C50 et HAP"
     ```
     Hydrocarbures Pétroliers (C10-C50), Hydrocarbures aromatiques polycycliques: Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
-=== "HGT pH ajousté"
+=== "HGT pH ajusté"
     ```
     Huiles et graisses totales - Gravimétrie: Agent de conservation insuffisant, pH ajusté au laboratoire.
     ```
@@ -117,44 +117,50 @@ pH:  L'échantillon de boue est suffisamment liquide, il a été analysé direct
 ```
 
 ## Limite rapportée augmentée
-Général:
-Interférence da la matrice
-Mono-paramètre
-```
-XXX: La limite rapportée a été augmentée due à une interférence de la matrice.
-```
-Multi-paramètres
-```
-XXX: Les limites rapportées ont été augmentées due à une interférence de la matrice.
-```
+Général: Interférence de la matrice
+=== "Mono-paramètre"
+    ```
+    XXX: La limite rapportée a été augmentée due à une interférence de la matrice.
+    ```
+=== "Multi-paramètres"
+    ```
+    XXX: Les limites rapportées ont été augmentées dues à une interférence de la matrice.
+    ```
 Dilution en raison de la matrice
-```
-XXX: La limite rapportée a été augmentée dû à une dilution de l’échantillon en raison de la matrice.
-```
-Dilution en raison de la matrice trop chargée
-```
-XXX: La limite rapportée a été augmentée dû à une dilution de l’échantillon en raison d'une matrice trop chargée.
-```
-Phosphores totaux:
-```
-Phosphores totaux: La limite rapportée a été augmentée due à une interférence de la matrice.
-```
-HGT LR augmentée:
-```
-Huiles et graisses totales: La limite rapportée a été augmentée due à une quantité insuffisante d'échantillon.
-```
-Nitrites
-```
-Nitrites: La limite rapportée a été augmentée due à une interférence de la matrice.
-```
-% d'humidité élevé:
-```
-En raison d'un pourcentage d'humidité élevé, les limites de détection ont été augmentées.
-```
-COV LR augmentées:
-```
-COV: Les limites rapportées ont été augmentées due à une dilution de l'échantillon en raison de la matrice.
-```
+=== "LR dilution - Mono-paramètre"
+    ```
+    XXX: La limite rapportée a été augmentée due à une dilution de l’échantillon en raison de la matrice.
+    ```
+=== "LR dilution - Multi-paramètres"
+    ```
+    XXX: Les limites rapportées ont été augmentées dues à une dilution de l’échantillon en raison de la matrice.
+    ```
+LR augmentées
+=== "Phosphores totaux"
+    ```
+    Phosphores totaux: La limite rapportée a été augmentée due à une interférence de la matrice.
+    ```
+=== "HGT"
+    ```
+    Huiles et graisses totales- Gravimétrie: La limite rapportée a été augmentée due à une quantité insuffisante d'échantillon.
+    ```
+=== "Nitrites"
+    ```
+    Nitrites: La limite rapportée a été augmentée due à une interférence de la matrice.
+    ```
+=== "COV"
+    ```
+    COV: Les limites rapportées ont été augmentées dues à une dilution de l'échantillon en raison de la matrice.
+    ```
+=== "% d'humidité élevé - multi"
+    ```
+    En raison d'un pourcentage d'humidité élevé, les limites rapportées ont été augmentées.
+    ```
+=== "% d'humidité élevé - mono"
+    ```
+    En raison d'un pourcentage d'humidité élevé, la limite rapportée a été augmentée.
+    ```
+
 DBO LR augmentée: 
 === "DBOc TARKETT avec LR augmentée"
 ```
@@ -181,6 +187,10 @@ Benzo(a)pyrène-Hygiène: La limite rapportée a été augmentée due à une plu
 ```
 Benzo(a)pyrène-Hygiène: La limite rapportée a été augmentée due à une dilution de l'échantillon en raison de la matrice.
 ```
+## MSB
+```
+Blanc positif non-soustrait du résultat pour l’analyse des Matières solubles dans le benzène.
+```
 
 ## COV
 Surrogates non-conformes (trop forts)
@@ -193,11 +203,11 @@ COV: Les récupérations des étalons de recouvrement ne sont pas disponibles à
 ```
 % d'humidité élevé, LR augmentée:
 ```
-COV: En raison d'un pourcentage d'humidité élevé, les limites de détection ont été augmentées.
+COV: En raison d'un pourcentage d'humidité élevé, les limites rapportées ont été augmentées.
 ```
 Poids insuffisant (sols):
 ```
-COV: En raison d'un poids d'extraction insuffisant, les limites de détection ont été augmentées et les résultats peuvent être sous-estimés.
+COV: En raison d'un poids d'extraction insuffisant, les limites rapportées ont été augmentées et les résultats peuvent être sous-estimés.
 ```
 COV pot non-conforme:
 ```
@@ -213,11 +223,11 @@ COV: Analyse effectuée sur un échantillon prélevé dans un pot de verre sans 
 ```
 COV LRs augmentées
 ```
-COV: Les limites rapportées ont été augmentées due à une dilution de l'échantillon en raison de la matrice.
+COV: Les limites rapportées ont été augmentées dues à une dilution de l'échantillon en raison de la matrice.
 ```
 Humidité élevé et masse insuffisante
 ```
-COV:  En raison d'un pourcentage d'humidité élevé et d'un poids d'extraction insuffisant, les limites de détection ont été augmentées et les résultats peuvent être sous-estimés.
+COV:  En raison d'un pourcentage d'humidité élevé et d'un poids d'extraction insuffisant, les limites rapportées ont été augmentées et les résultats peuvent être sous-estimés.
 ```
 
 ## DCO / DBO
@@ -241,14 +251,14 @@ Présence d'interférence pour l’analyse de la demande biochimique en oxygène
 
 ## C10-C50 et HAP
 ```
-Hydrocarbures Pétroliers (C10-C50): À cause d'une erreur de manipulation la meilleure limite de détection ne peut pas être fournie.
+Hydrocarbures Pétroliers (C10-C50): À cause d'une erreur de manipulation la meilleure limite rapportée ne peut pas être fournie.
 ```
-LR augmentée
+HAP, LR augmentées
 ```
 Hydrocarbures aromatiques polycycliques, Dibenzo[a,i]pyrène : Dû à une interférence de la matrice la limite rapportée a été augmentée.
 ```
 ```
-Hydrocarbures aromatiques polycycliques: Les limites rapportées ont été augmentées due à une dilution de l'échantillon en raison de la matrice.
+Hydrocarbures aromatiques polycycliques: Les limites rapportées ont été augmentées dues à une dilution de l'échantillon en raison de la matrice.
 ```
 ```
 Hydrocarbures aromatiques polycycliques, Hydrocarbures Pétroliers (C10-C50): L’échantillon est constitué à plus de 80% de gravier de plus de 5mm. L’analyse à été effectué selon la dérogation gravier.
@@ -283,10 +293,6 @@ Surrogates oiubliés:
 ```
 Hydrocarbures aromatiques polycycliques : À cause d'une erreur de manipulation les récupérations des étalons de recouvrement ne sont pas disponibles, mais aucun impact sur le résultat de l'échantillon.
 ```
-Traitement à l'acétone
-```
-Hydrocarbures Pétroliers (C10-C50): L'échantillon a subi un traitement à l'acétone après extraction pour casser l'émulsion.
-```
 
 ## Métaux
 ### MR non-conforme
@@ -307,7 +313,11 @@ Métaux extractibles: Blanc positif soustrait
 ```
 Blanc positif soustrait du résultat pour l’analyse du Cuivre extractible.
 ```
-Métaux extractibles: Blanc positif non soustrait
+Métaux extractibles: Blanc positif non-soustrait
+```
+Blanc positif non-soustrait du résultat pour l’analyse du Cuivre extractible.
+```
+Métaux extractibles: Blanc positif - pas d'impact
 ```
 Métaux extractibles: Blanc est positif en Cuivre, mais aucun impact sur les résultats de l’échantillon.
 ```
@@ -315,7 +325,7 @@ Métaux solubles à l'acide: Blanc positif soustrait
 ```
 Blanc positif soustrait du résultat pour l’analyse du Sélénium soluble à l'acide.
 ```
-Métaux solubles à l'acide: Blanc positif non soustrait
+Métaux solubles à l'acide: Blanc positif - pas s'impact
 ```
 Métaux solubles à l'acide: Blanc est positif en Sélénium, mais aucun impact sur les résultats de l’échantillon.
 ```
@@ -326,15 +336,15 @@ Les analyses de cet échantillon ont été faites en dérogation selon les recom
 ## HGT et HGM
 Blanc non-conforme
 ```
-Huiles et graisses totales: Blanc est non-conforme, mais aucun impact sur le résultat de l’échantillon.
+Huiles et graisses totales- Gravimétrie: Blanc est non-conforme, mais aucun impact sur le résultat de l’échantillon.
 ```
-pH ajousté
+pH ajusté
 ```
 Huiles et graisses totales- Gravimétrie: Agent de conservation insuffisant, pH ajusté au laboratoire.
 ```
 LR augmentée
 ```
-Huiles et graisses totales: La limite rapportée a été augmentée due à une quantité insuffisante d'échantillon.
+Huiles et graisses totales- Gravimétrie: La limite rapportée a été augmentée due à une quantité insuffisante d'échantillon.
 ```
 ## Gaz
 ### Une contamination non-identifiée 

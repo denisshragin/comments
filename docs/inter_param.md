@@ -5,6 +5,11 @@ Commentaire général
 ```
 Les résultats de XXX et de XXX ne respectent pas les critères de comparaison inter-paramètres. Cependant, la différence entre les deux valeurs respecte l’écart d’imprécision des méthodes analytiques.
 ```
+DCO et DCO dissous
+```
+Les résultats de la Demande chimique en oxygène et de la Demande chimique en oxygène dissous ne respectent pas les critères de comparaison inter-paramètres. Cependant, la différence entre les deux valeurs respecte l’écart d’imprécision des méthodes analytiques.
+```
+
 DCO et DBO totale
 ```
 Les résultats de la Demande chimique en oxygène et de la Demande biochimique en oxygène totale ne respectent pas les critères de comparaison inter-paramètres. Cependant, la différence entre les deux valeurs respecte l’écart d’imprécision des méthodes analytiques.
@@ -44,15 +49,4 @@ Les résultats du Sodium extractible et du Sodium dissous ne respectent pas les 
 Commentaire général - résultats confirmés en reprise
 ```
 Les résultats de XXX et de XXX ne respectent pas les critères de comparaison inter-paramètres. Les résultats des 2 analyses ont été confirmés en reprise.
-```
-
-
-## Set 2
-
-```
-Commentaire 1
-```
-
-```
-Commentaire 2
 ```
